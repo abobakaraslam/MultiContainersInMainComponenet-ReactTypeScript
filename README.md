@@ -1,8 +1,8 @@
-# React Application with integrated Tailwind CSS
+# Multiple Containers (<div>) Inside a Main Conainter (App)
 
-You can use below link to know how to create this app
+You can use <b>Example 1</b> below link to know how to create this app
 
-https://abobakar.kesug.com/courses/tailwind-css/integration-react-tailwind/
+https://abobakar.kesug.com/abo-bakar/courses/react/creating-multiple-components/
 
 **How to Run:**
 
