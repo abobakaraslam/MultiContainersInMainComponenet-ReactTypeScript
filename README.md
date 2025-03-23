@@ -1,17 +1,46 @@
-# Multiple Containers (&lt;div&gt;) Inside a Main Conainter (App)
+# How to Run this repo's code
 
-You can use <b>Example 1</b> below link to know how to create this app
+## Step 1; Download the code
 
-https://abobakar.kesug.com/abo-bakar/courses/react/creating-multiple-components/
+a. click on "Code" button menu
+b. click on "Download ZIP"
 
-**How to Run:**
+## Step 2; Extracting the code files
 
-- Open VS code terminal and type command
+a. Click on downloaded file. It will compressed file
+b. right click on the file and click on "Extract here".
+c. Now, a folder will be created by same name as of downloaded file. But it will not be compressed. We used this folder in next step.
 
-      npm install
+## Step 3; Open with VS Code
 
-- Above command will install all neccessary packages and create node_modules folder in your downloaded code.
+a. double click on the folder created in previous step
+b. open this directory into VS code
 
-- Now run below command to run this app
+## Step 4; Installing required NPM packages
 
-      npm run dev
+a. Open terminal window in VS code. in terminal window, path of the directory will be shown
+b. type below command in the terminal and press "Enter"
+
+```
+npm install
+```
+
+## Step 5; Run the code
+
+b. in terminal window, type below command and press "Enter"
+
+```
+npm run dev
+```
+
+c. A URL will be given if above command run successfully. the command will be run only if there is no error in the code. The URL will be like as below
+
+**http://localhost:**
+
+## Step 6; View the output
+
+Follow any of below methods to view the output
+
+Method 1. Copy the complete URL obtained in previous step, paste in any browser's address section and hit enter.
+
+Method 2. ctrl+click on the URL
